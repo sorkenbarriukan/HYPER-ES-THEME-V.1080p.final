@@ -332,14 +332,14 @@
 </text>
 
 <image name="md_marquee">
-<pos>0.498 0.217</pos>
+<pos>0.498 0.167</pos>
 <size>0.250 0.105</size>
 <origin>0.5 0.5</origin>
-<zIndex>69</zIndex>
+<zIndex>29</zIndex>
 </image>	
 
 <image name="logo">
-<pos>0.498 0.217</pos>
+<pos>0.498 0.216</pos>
 <size>0.250 0.105</size>
 <origin>0.5 1</origin>
 <zIndex>20</zIndex>

@@ -22,10 +22,10 @@
 <path>./art/sistemas/fondos/fondo video pantalla curva.png</path>
 <zIndex>68</zIndex>
 <storyboard repeat="forever">
-<animation property="color" from="FAE805" to="FA3505" begin="100" duration="4300" autoreverse="true" mode="EaseOut"/>
 <animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4500" repeat="3"/>
 </storyboard>
 </image>
+
 <image name="hardmix2" extra="true">
 <tile>false</tile>
 <pos>0.1690 0.559</pos>
@@ -37,6 +37,7 @@
 <animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4500" repeat="3"/>
 </storyboard>
 </image>
+
 <image name="hardmix3" extra="true">
 <tile>false</tile>
 <pos>0.8490 0.559</pos>
@@ -213,11 +214,9 @@
 <size>0.2670 0.255</size>
 <path>./art/sistemas/fondos/default.png</path>
 <zIndex>40</zIndex>
-<storyboard>
-        <animation property="y" from="0.05" begin="0" duration="350" mode="easeOut"/>
-        <animation property="opacity" from="0" to="1" duration="2950" mode="easeIn"/>
-        <animation property="scale" from="0" to="1" duration="350" mode="easeOut"/>
-      </storyboard>
+<storyboard repeat="forever">
+<animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4500" repeat="3"/>
+</storyboard>
 </image>
 
 <image name="predeterminado2" extra="true">
@@ -229,11 +228,8 @@
 <path>./art/sistemas/fondos/default.png</path>
 <zIndex>40</zIndex>
 <storyboard repeat="forever">
-        <animation property="y" from="0.05" begin="0" duration="350" mode="easeOut"/>
-        <animation property="opacity" from="0" to="1" duration="2950" mode="easeIn"/>
-        <animation property="scale" from="0" to="1" duration="350" mode="easeOut"/>
-        <animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4500" repeat="3"/>
-      </storyboard>
+<animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4500" repeat="3"/>
+</storyboard>
 </image>
 
 <image name="predeterminado3" extra="true">
@@ -245,11 +241,8 @@
 <path>./art/sistemas/fondos/default.png</path>
 <zIndex>40</zIndex>
 <storyboard repeat="forever">
-        <animation property="y" from="0.05" begin="0" duration="350" mode="easeOut"/>
-        <animation property="opacity" from="0" to="1" duration="2950" mode="easeIn"/>
-        <animation property="scale" from="0" to="1" duration="350" mode="easeOut"/>
-        <animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4500" repeat="3"/>
-      </storyboard>
+<animation property="rotation" from="-13" to="13" duration="100" autoreverse="true" begin="4500" repeat="3"/>
+</storyboard>
 </image>
 
 <image name="box1" extra="true">

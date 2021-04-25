@@ -30,18 +30,8 @@
 <pos>0 0</pos>
 <origin>0 0</origin>
 <path>./art/bg.png</path>
-<path>./art/sistemas/fondos/fondo hypS.png</path>
+<path>./art/sistemas/fondos/systemcarousel.png</path>
 <zIndex>10</zIndex>      
-</image>
-    
-<image name="background3" extra="true">
-<tile>false</tile>
-<size>1 1</size>
-<pos>0 0</pos>
-<origin>0 0</origin>
-<path>./art/sistemas/wall/default.png</path>
-<path>./art/sistemas/wall/${system.theme}.png</path>
-<zIndex>9</zIndex>
 </image>
  
  <image name="fondotv" extra="true">

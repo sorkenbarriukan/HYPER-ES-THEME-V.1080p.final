@@ -113,6 +113,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 
 <include name="(1)-Horizontal Video PANTALLA COMPLETA">./art/sistemas/systemview/horizontal full video random.xml</include>
 <include name="(2)-Horizontal Video Intro Batocera For Snakervill">./art/sistemas/systemview/Horizontal full video intro batocera snkv.xml</include>
+<include name="(3)-Horizontal Video Intro RETROBAT">./art/sistemas/systemview/Horizontal full video intro retrobat.xml</include>
 <include name="(3)-Horizontal FONDO SISTEMA">./art/sistemas/systemview/Horizontal Wallpaper System.xml</include>
 <include name="(4)-Horizontal FONDO SISTEMA Logo HYPER-ES THEME">./art/sistemas/systemview/Horizontal Wallpaper logo batocera.xml</include>
 <include name="(5)-Horizontal FONDO SISTEMA & Minivideo Aleatorio">./art/sistemas/systemview/Horizontal Wallpaper System&MinivideoRandom.xml</include>

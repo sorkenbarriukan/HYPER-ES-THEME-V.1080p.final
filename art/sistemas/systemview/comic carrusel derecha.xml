@@ -12,18 +12,6 @@
 <zIndex>25</zIndex>
 </image>
 
-<image name="cambiodepaguina" extra="true">
-<tile>false</tile>
-<size>1 1</size>
-<pos>0 0</pos>
-<origin>0 0</origin>
-<path>./art/sistemas/fondos/Captura.png</path>
-<zIndex>95</zIndex>
-<storyboard repeat="1">
-<animation property="w" from="1" to="0" duration="650" begin="10" autoreverse="false" repeat="1"/>
-</storyboard>
-</image>
-
 <image name="background" extra="true">
 <tile>false</tile>
 <size>1 1</size>
