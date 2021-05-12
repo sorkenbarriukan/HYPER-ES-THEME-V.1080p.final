@@ -6,7 +6,9 @@
 <mostra-personajesName>ΔΕΙΤΕ ΧΑΡΑΚΤΗΡΑ</mostra-personajesName>
 <opciones-de-personajes-en-sistemaName>ΕΦΑΡΜΟΓΗ ΤΟΥ ΧΑΡΑΚΤΗΡΑ ΣΤΟ ΣΥΣΤΗΜΑ</opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>ΕΦΑΡΜΟΓΗ ΤΗΣ ΕΠΙΔΡΑΣΗΣ ΣΤΟ ΧΑΡΑΚΤΗΡΑ ΣΤΟ ΠΑΙΧΝΙΔΙ</opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>ΕΠΙΛΟΓΕΣ ΛΟΓΟΤΥΠΟ</opciones-de-logosName>
+<cambiar-logos-en-carruselName>ΑΛΛΑΓΗ ΛΟΓΟΤΥΠΟ ΣΕ ΚΑΡΟΥΣΕΛ</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>ΑΛΛΑΓΗ ΛΟΓΟΤΥΠΟ ΣΕ ΠΑΙΧΝΙΔΙ</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>ΕΝΕΡΓΟΠΟΙΗΣΤΕ ΤΗ ΖΩΗ ΣΤΟ ΕΝΕΡΓΟ ΛΟΓΟΤΥΠΟ ΚΑΡΟΥΣΕΛ</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>ΕΠΙΛΟΓΕΣ ΕΙΚΟΝΑΣ ΙΣΤΟΡΙΚΟΥ</subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>ΕΦΑΡΜΟΓΗ ΗΧΟΥ ΣΕ ΚΑΡΟΥΣΕΛ</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>ΕΦΑΡΜΟΓΗ ΗΧΟΥ ΣΕ ΠΑΙΧΝΙΔΙ</subset.aplicar-sonido-en-gamelist>

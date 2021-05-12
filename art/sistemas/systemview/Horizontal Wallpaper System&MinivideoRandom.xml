@@ -87,9 +87,8 @@
 <systemInfoDelay>300</systemInfoDelay>
 <pos>0 0.0107</pos>
 <size>1 0.2325</size>
-<logoScale>1.15</logoScale>
-<logoSize>.25 .3</logoSize>
-<maxLogoCount>3</maxLogoCount>
+<logoScale>1.05</logoScale>
+<maxLogoCount>4</maxLogoCount>
 </carousel>
     
 <text name="systemInfo">

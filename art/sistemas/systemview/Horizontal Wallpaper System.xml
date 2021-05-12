@@ -45,21 +45,22 @@
 <color>1C00ff00</color>
 <colorEnd>1C00ff00</colorEnd>
 <systemInfoDelay>700</systemInfoDelay>
+<logoScale>1.15</logoScale>
 <pos>0 0.3837</pos>
-<size>1 0.2325</size>
+<size>1 0.2625</size>
 </carousel>
 <image name="carousel-inner" extra="true">
 <path>./art/carousel2.png</path>
 <color>FFFFFFFF</color>
 <origin>0 0</origin>
-<pos>0 0.3837</pos>
+<pos>0 0.4000</pos>
 <size>1 0.2325</size>
-<zIndex>40</zIndex>
+<zIndex>30</zIndex>
 </image>
 
 <text name="systemInfo">
 <systemInfoDelay>300</systemInfoDelay>
-<pos>0.290  0.480</pos>
+<pos>0.290  0.500</pos>
 <size>0.420 0.35</size>
 <fontSize>0.06</fontSize>
 <fontPath>./art/sistemas/fuentes/Anticlimax.ttf</fontPath>

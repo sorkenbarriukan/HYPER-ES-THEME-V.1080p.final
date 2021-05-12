@@ -114,13 +114,13 @@
 </image>
 
 <carousel name="systemcarousel">
-<color>1C00ff00</color>
-<colorEnd>1C00ff00</colorEnd>
-<systemInfoDelay>700</systemInfoDelay>
-<logoScale>1.15</logoScale>
-<pos>0 0.01002</pos>
+<color>00000000</color>
+<colorEnd>00000000</colorEnd>
+<systemInfoDelay>300</systemInfoDelay>
+<pos>0 0.0107</pos>
 <size>1 0.2325</size>
-<maxLogoCount>3</maxLogoCount>
+<logoScale>1.05</logoScale>
+<maxLogoCount>4</maxLogoCount>
 </carousel>
     
 <text name="systemInfo">

@@ -15,7 +15,9 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <mostra-personajesName>MOSTRAR PERSONAJE</mostra-personajesName>
 <opciones-de-personajes-en-sistemaName>APLICAR EFECTO AL PERSONAJE EN SISTEMA</opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>APLICAR EFECTO AL PERSONAJE EN GAMELIST</opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>OPCIONES DE LOGOS</opciones-de-logosName>
+<cambiar-logos-en-carruselName>CAMBIAR LOGOS EN CARRUSEL</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>CAMBIAR LOGOS EN GAMELIST</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>ACTIVAR ANIMACION EN LOGO ACTIVO DEL CARRUSEL</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>OPCIONES DE IMAGEN DE FONDO</subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>APLICAR SONIDO EN CARRUSEL</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>APLICAR SONIDO EN GAMELIST</subset.aplicar-sonido-en-gamelist>
@@ -101,6 +103,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <include name="Hyperspin 2 Carrusel Izquierda">./art/sistemas/systemview/Hyperspin izq.xml</include>
 <include name="Hyperspin 2 Carrusel Derecha">./art/sistemas/systemview/Hyperspin derh.xml</include>
 <include name="Hypermax Plus+">./art/sistemas/systemview/Hypermax Plus+.xml</include>
+<include name="Alterno">./art/sistemas/systemview/alterno.xml</include>
 
 <include name="-TATE- IZQUIERDA 1">./art/sistemas/systemview/verticalleft.xml</include>
 <include name="-TATE- IZQUIERDA 2">./art/sistemas/systemview/verticalleft4.xml</include>
@@ -149,7 +152,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 
 <!------------------------ MENU-------------------------->
   <subset name="menu" displayName="${menuName}">
-<include name="→ POR DEFECTO ←">./art/sistemas/menus/por defecto.xml</include>
+<include name="Naranja (POR DEFECTO)">./art/sistemas/menus/por defecto.xml</include>
 <include name="IMAGEN BLUR - FUENTE MANO ALZADA">./art/sistemas/menus/menu2.xml</include>
 <include name="FONDO MULTICOLOR - FUENTE COMIC">./art/sistemas/menus/menu3.xml</include>
 <include name="MANO ALZADA - FUENTE MANO ALZADA">./art/sistemas/menus/menu4.xml</include>
@@ -162,14 +165,12 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <subset name="mostrar-personajes" displayName="${mostra-personajesName}">
 
 <!--  MOSTRAR PERSONAJES-->
-<include name="MOSTRAR PERSONAJE → POR DEFECTO (NO)" displayName="${yes}">./art/sistemas/storyboards/no Activate characters.xml</include>
-<include name="→ NO" displayName="${yes}">./art/sistemas/storyboards/no Activate characters.xml</include>
-<include name="→ SI" displayName="${yes}">./art/sistemas/storyboards/characters.xml</include>
+<include name="NO (Por Defecto)" displayName="${yes}">./art/sistemas/storyboards/no Activate characters.xml</include>
+<include name="SI" displayName="${yes}">./art/sistemas/storyboards/characters.xml</include>
 </subset>
 
 <!-- storyboards  System Character-->
 <subset name="opciones-de-personajes-en-sistema" displayName="${opciones-de-personajes-en-sistemaName}">
-<include name="APLICAR EFECTO EN SISTEMA">./art/sistemas/storyboards/system/character/default.xml</include>
 <include name="•NINGUNO">./art/sistemas/storyboards/system/character/default.xml</include>
 <include name="•Giro">./art/sistemas/storyboards/system/character/giro.xml</include>
 <include name="•Acople">./art/sistemas/storyboards/system/character/acople.xml</include>
@@ -200,7 +201,6 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 
 <!--  storyboards  Menu Character-->
 <subset name="opciones-de-personajes-en-gamelist" displayName="${opciones-de-personajes-en-gamelistName}">
-<include name="APLICAR EFECTO EN GAMELIST">./art/sistemas/storyboards/menu/character/default.xml</include>
 <include name="˙NINGUNO">./art/sistemas/storyboards/menu/character/default.xml</include>
 <include name="˙Giro">./art/sistemas/storyboards/menu/character/giro.xml</include>
 <include name="˙Acople">./art/sistemas/storyboards/menu/character/acople.xml</include>
@@ -229,28 +229,29 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 
 
 <!-- --------------------------------------- ((( OPCIONES DE LOGOS ))) -------------------------------- -->
-<subset name="opciones-de-logos" displayName="${opciones-de-logosName}">
-
-<!--  logos-->
-<include name="TIPO DE LOGOS EN CARRUSEL  POR DEFECTO → Ticket" displayName="${no}"></include>
+<subset name="cambiar-logos-en-carrusel" displayName="${cambiar-logos-en-carruselName}">
 <include name="˙Ticket" displayName="${no}">./art/sistemas/storyboards/logos/ticket.xml</include>  
 <include name="˙Silverring" displayName="${no}">./art/sistemas/storyboards/logos/silverring.xml</include>  
+<include name="˙Alterno" displayName="${no}">./art/sistemas/storyboards/logos/alterno.xml</include>  
 <include name="˙Marquee" displayName="${no}">./art/sistemas/storyboards/logos/marquee.xml</include> 
 <include name="˙Cartucho Nes" displayName="${no}">./art/sistemas/storyboards/logos/nes.xml</include> 
 <include name="˙Comic" displayName="${no}">./art/sistemas/storyboards/logos/comics.xml</include> 
 <include name="˙Consolas" displayName="${no}">./art/sistemas/storyboards/logos/consoles.xml</include>
 <include name="˙Simples" displayName="${no}">./art/sistemas/storyboards/logos/simples.xml</include>     
 <include name="˙Personajes" displayName="${no}">./art/sistemas/storyboards/logos/characters.xml</include>   
+</subset>
 
 <!--  tipo de marquesina -->
-<include name="TIPO DE LOGOS EN GAMELIST ← ← ←"></include>
+<subset name="cambiar-logos-en-gamelist" displayName="${cambiar-logos-en-gamelistName}">
 <include name=" ˙Logos">./art/sistemas/storyboards/menu/logo/silverring.xml</include>
 <include name=" ˙Marquee">./art/sistemas/storyboards/menu/logo/marquee.xml</include>
+<include name=" ˙Silverring">./art/sistemas/storyboards/menu/logo/silverring.xml</include>
+<include name=" ˙Alterno">./art/sistemas/storyboards/menu/logo/alterno.xml</include>
 <include name=" ˙Ticket">./art/sistemas/storyboards/menu/logo/ticket.xml</include>
+</subset>
 
 <!-- MOVIMIENTO EN LOGO SELECCIONADO DEL CARRUSEL EN SISTEMA-->
-
-<include name="MOVIMIENTO EN LOGO ACTIVO DEL CARRUSEL POR DEFECTO NINGUNO ← ← ←" displayName="${no}"></include>
+<subset name="activar-movimiento-en-logo-de-carrusel" displayName="${activar-movimiento-en-logo-de-carruselName}">
 <include name="˙NINGUNO" displayName="${si}">./art/sistemas/storyboards/logos/movimiento en carrusel NO.xml</include>
 <include name="˙BUMP" displayName="${si}">./art/sistemas/storyboards/logos/movimiento en carrusel SI.xml</include>
 <include name="˙GLITCH" displayName="${si}">./art/sistemas/storyboards/logos/movimiento en carrusel GLITCH.xml</include>
@@ -266,8 +267,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <!-- --------------------------------------- ((( OPCIONES DE IMAGEN DE FONDO ))) -------------------------------- -->
 <!--  color en backgrownd -->
 <subset name="opciones-imagen-de-fondo" displayName="${subset.opciones-imagen-de-fondo}">
-<include name="APLICAR COLOR A LA IMAGEN DE FONDO ← " displayName="${Orange}"></include>
-<include name="˙Normal ← POR DEFECTO" displayName="${Orange}">./art/sistemas/storyboards/colorbg/normal.xml</include>
+<include name="Color Normal ( POR DEFECTO)" displayName="${Orange}">./art/sistemas/storyboards/colorbg/normal.xml</include>
 <include name="˙Fuchsia" displayName="${red}">./art/sistemas/storyboards/colorbg/violeta.xml</include>
 <include name="˙Verde" displayName="${red}">./art/sistemas/storyboards/colorbg/verde.xml</include>
 <include name="˙Naranja" displayName="${red}">./art/sistemas/storyboards/colorbg/naranja.xml</include>
@@ -277,8 +277,8 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <include name="˙Azul" displayName="${red}">./art/sistemas/storyboards/colorbg/azul.xml</include>
 
 <!--  Animate Backgrownd-->
-<include name="→ APLICAR ANIMACION A LA IMAGEN DE FONDO ← " displayName="${yes}"></include>
-<include name="˙Ninguno ← POR DEFECTO" displayName="${yes}">./art/sistemas/storyboards/backgrownd/none.xml</include>
+<include name="(( APLICAR ANIMACION A LA IMAGEN DE FONDO ))" displayName="${yes}"></include>
+<include name="Sin Animar (POR DEFECTO)" displayName="${yes}">./art/sistemas/storyboards/backgrownd/none.xml</include>
 <include name="˙Bump" displayName="${yes}">./art/sistemas/storyboards/backgrownd/bump.xml</include>
 <include name="˙Blink" displayName="${yes}">./art/sistemas/storyboards/backgrownd/blink.xml</include>
 <include name="˙Desde Arriva & Abajo" displayName="${yes}">./art/sistemas/storyboards/backgrownd/move.xml</include>
@@ -304,8 +304,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 
 <!-- sonidos en sistema-->
 <subset name="aplicar-sonido-en-carrusel" displayName="${subset.aplicar-sonido-en-carrusel}">
-<include name="APLICAR SONIDO EN EL CARRUSEL ← ← ←" displayName="${none}"/>
-<include name="˙Ninguno ← POR DEFECTO" displayName="${none}"/>
+<include name="˙Ninguno ((POR DEFECTO))" displayName="${none}"/>
 <include name="˙dkJump">./art/sistemas/sounds navigation/dkjump.xml</include>
 <include name="˙smwactivated">./art/sistemas/sounds navigation/smw activated.xml</include>
 <include name="˙basic">./art/sistemas/sounds navigation/basic.xml</include>
@@ -345,8 +344,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 
 <!--  sonidos de navegacion para grid & gamelist -->
 <subset name="aplicar-sonido-en-gamelist" displayName="${subset.aplicar-sonido-en-gamelistl}">
-<include name="--- APLICAR SONIDO EN EL GAMELIST ← ← ←" displayName="${none}"/>
-<include name="•Ninguno ← POR DEFECTO" displayName="${none}"/>
+<include name="•Ninguno (POR DEFECTO)" displayName="${none}"/>
 <include name="•dkJump">./art/sistemas/sounds navigation/sndgrid/dkjump.xml</include>
 <include name="•smwactivated">./art/sistemas/sounds navigation/sndgrid/smw activated.xml</include>
 <include name="•basic">./art/sistemas/sounds navigation/sndgrid/basic.xml</include>
@@ -389,8 +387,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <!-- --------------------------------------- ((( OPCIONES DE VIDEO ))) -------------------------------- -->
 <!--storyboards  System Video  -->
 <subset name="opciones-de-video-sistema" displayName="${subset.opciones-de-video-sistema}">
-<include name="APLICAR EFECTO AL VIDEO EN SISTEMA ← ← ←" displayName="${none}"/>
-<include name="˙Ninguno ← POR DEFECTO" displayName="${none}"/>
+<include name="˙Ninguno (POR DEFECTO)" displayName="${none}"/>
 <include name="˙EaseOutCubic">./art/sistemas/storyboards/system/video/easeOutCubic.xml</include>
 <include name="˙Aparecer Desde La Izquierda">./art/sistemas/storyboards/system/video/From Left.xml</include>
 <include name="˙Aparecer Lento">./art/sistemas/storyboards/system/video/Appears slow.xml</include>
@@ -404,8 +401,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 
 <!--storyboards  Menu Video -->
 <subset name="opciones-de-video-gamelist" displayName="${subset.opciones-de-video-gamelist}">
-<include name="APLICAR EFECTO AL VIDEO EN GAMELIST ← ← ←" displayName="${none}"/>
-<include name="•Ninguno ← POR DEFECTO" displayName="${none}"/>
+<include name="•Ninguno ((POR DEFECTO))" displayName="${none}"/>
 <include name="•EaseOutCubic">./art/sistemas/storyboards/menu/video/easeOutCubic.xml</include>
 <include name="•Aparecer Desde Izquierda">./art/sistemas/storyboards/menu/video/From Left.xml</include>
 <include name="•Aparecer Lento">./art/sistemas/storyboards/menu/video/Appears slow.xml</include>
@@ -430,11 +426,11 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 
 <!--Show  Info-->
  <subset name="info" displayName="${infoName}">
-<include name=" Español  (Por Defecto)" displayName="${yes}">./art/sistemas/infosys/es/${system.theme}.xml</include>
-<include name=" Italiano" displayName="${yes}">./art/sistemas/infosys/it/${system.theme}.xml</include>
-<include name=" Frances" displayName="${yes}">./art/sistemas/infosys/fr/${system.theme}.xml</include>
+<include name="Español  (Por Defecto)" displayName="${yes}">./art/sistemas/infosys/es/${system.theme}.xml</include>
+<include name="Italiano" displayName="${yes}">./art/sistemas/infosys/it/${system.theme}.xml</include>
+<include name="Frances" displayName="${yes}">./art/sistemas/infosys/fr/${system.theme}.xml</include>
 <include name="Portuges" displayName="${yes}">./art/sistemas/infosys/pt/${system.theme}.xml</include>
-<include name=" Ingles" displayName="${yes}">./art/sistemas/infosys/en/${system.theme}.xml</include>
+<include name="Ingles" displayName="${yes}">./art/sistemas/infosys/en/${system.theme}.xml</include>
 </subset>
 
 <!--  systemInfoEx-->
@@ -513,10 +509,10 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 </controllerActivity>
 
 <text name="marca de agua" extra="true">
-<pos>0.01 0.970</pos>
+<pos>0.0 0.974</pos>
 <size>0.285 0.025</size>
 <text>HYPER-ES-THEME</text>
-<fontSize>0.02</fontSize>
+<fontSize>0.015</fontSize>
 <fontPath>./art/sistemas/fuentes/Anticlimax.ttf</fontPath>
 <color>ffffff50</color>
 <forceUppercase>true</forceUppercase>
@@ -573,6 +569,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <include name="COMIC CARRUSEL DERECHA">./art/sistemas/vista-lista-juegos/comic carrusel derecha.xml</include>
 <include name="Hypermax Plus+">./art/sistemas/vista-lista-juegos/Hypermax Plus+.xml</include>
 <include name="MANO ALZADA">./art/sistemas/vista-lista-juegos/MANO ALZADA.xml</include>
+<include name="Alterno">./art/sistemas/vista-lista-juegos/alterno.xml</include>
 <include name="-TATE  IZQUIERDA - MAQUINITA OBSCURA">./art/sistemas/vista-lista-juegos/-TATE  IZQUIERDA - MAQUINITA OBSCURA.xml</include>
 <include name="-TATE  IZQUIERDA - MAQUINITA AMARILLA">./art/sistemas/vista-lista-juegos/-TATE  IZQUIERDA - MAQUINITA AMARILLA.xml</include>
 <include name="-TATE  DERECHA - MAQUINITA OBSCURA">./art/sistemas/vista-lista-juegos/-TATE  DERECHA - MAQUINITA OBSCURA.xml</include>

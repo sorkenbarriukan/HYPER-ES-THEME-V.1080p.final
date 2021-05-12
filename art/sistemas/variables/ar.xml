@@ -10,8 +10,12 @@
 </opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>تطبيق التأثير على الشخصية في قائمة الألعاب
 </opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>خيارات الشعارات
-</opciones-de-logosName>
+<cambiar-logos-en-carruselName>تغيير الشعارات في CAROUSEL
+</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>تغيير الشعارات في قائمة الألعاب
+</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>تنشيط الرسوم المتحركة في شعار CAROUSEL النشط
+</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>خيارات الصورة الخلفية
 </subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>تطبيق الصوت على CAROUSEL</subset.aplicar-sonido-en-carrusel>

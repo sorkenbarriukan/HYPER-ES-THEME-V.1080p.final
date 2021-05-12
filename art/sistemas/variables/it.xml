@@ -6,7 +6,9 @@
 <mostra-personajesName>MOSTRA PERSONAGGIO</mostra-personajesName>
 <opciones-de-personajes-en-sistemaName>APPLICA EFFETTO AL PERSONAGGIO NEL SISTEMA</opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>APPLICA EFFETTO AL PERSONAGGIO IN GAMELIST</opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>OPZIONI LOGHI</opciones-de-logosName>
+<cambiar-logos-en-carruselName>CAMBIA LOGHI IN GIOSTRA</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>CAMBIA LOGHI IN GAMELIST</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>ATTIVA L'ANIMAZIONE CON LOGO GIOSTRA ATTIVA</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>OPZIONI DI IMMAGINE DI SFONDO</subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>APPLICA IL SUONO SULLA GIOSTRA</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>APPLICA IL SUONO IN GAMELIST</subset.aplicar-sonido-en-gamelist>

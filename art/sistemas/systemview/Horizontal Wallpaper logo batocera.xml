@@ -53,14 +53,14 @@
 <colorEnd>1C00ff00</colorEnd>
 <systemInfoDelay>700</systemInfoDelay>
 <logoScale>1.15</logoScale>
-<pos>0 0.7837</pos>
-<size>1 0.2325</size>
+<pos>0 0.7237</pos>
+<size>1 0.2625</size>
+ <maxLogoCount>6</maxLogoCount>
 </carousel>
-
 
 <text name="systemInfo">
 <systemInfoDelay>300</systemInfoDelay>
-<pos>0.290  0.560</pos>
+<pos>0.290  0.470</pos>
 <size>0.420 0.35</size>
 <fontSize>0.06</fontSize>
 <fontPath>./art/sistemas/fuentes/Anticlimax.ttf</fontPath>

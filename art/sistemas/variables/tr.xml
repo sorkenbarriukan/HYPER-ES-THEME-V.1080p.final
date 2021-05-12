@@ -6,7 +6,9 @@
 <mostra-personajesName>KARAKTERİ GÖSTER</mostra-personajesName>
 <opciones-de-personajes-en-sistemaName>SİSTEMDEKİ KARAKTER ETKİSİ UYGULAYIN</opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>GAMELIST'DE KARAKTERE ETKİ UYGULA</opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>LOGOLAR SEÇENEKLERİ</opciones-de-logosName>
+<cambiar-logos-en-carruselName>CAROUSEL'DEKİ LOGOLARI DEĞİŞTİR</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>GAMELIST'DEKİ LOGOLARI DEĞİŞTİR</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>AKTİF KARUSEL LOGOSUNDA ANİMASYONU ETKİNLEŞTİR</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>ARKA PLAN GÖRÜNTÜ SEÇENEKLERİ</subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>CAROUSEL ÜZERİNDE SES UYGULA</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>GAMELIST'DE SES UYGULA</subset.aplicar-sonido-en-gamelist>

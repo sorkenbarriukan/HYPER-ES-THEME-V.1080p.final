@@ -6,7 +6,9 @@
 <mostra-personajesName>ПОКАЗАТЬ ПЕРСОНАЖ</mostra-personajesName>
 <opciones-de-personajes-en-sistemaName>ПРИМЕНИТЬ ВЛИЯНИЕ НА ХАРАКТЕР В СИСТЕМЕ</opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>ПРИМЕНЯЙТЕ ЭФФЕКТ К ПЕРСОНАЖУ В ГАМЛИСТЕ</opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>ВАРИАНТЫ ЛОГОТИПА</opciones-de-logosName>
+<cambiar-logos-en-carruselName>ИЗМЕНИТЬ ЛОГОТИПЫ В CAROUSEL</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>ИЗМЕНИТЬ ЛОГОТИП В ИГРОВОМ СПИСКЕ</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>АКТИВИРОВАТЬ АНИМАЦИЮ В ЛОГОТИПЕ ACTIVE CAROUSEL</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>ВАРИАНТЫ ФОНОВОГО ИЗОБРАЖЕНИЯ</subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>ПРИМЕНИТЬ ЗВУК НА КАРОУСЕЛЬ</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>ПРИМЕНИТЬ ЗВУК В ГАМЛИСТЕ</subset.aplicar-sonido-en-gamelist>

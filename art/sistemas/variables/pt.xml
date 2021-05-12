@@ -6,7 +6,9 @@
 <mostra-personajesName>MOSTRAR PERSONAGEM</mostra-personajesName>
 <opciones-de-personajes-en-sistemaName>APLICAR EFEITO AO PERSONAGEM NO SISTEMA</opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>APLICAR EFEITO AO PERSONAGEM NO GAMELIST</opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>OPÇÕES DE LOGOS</opciones-de-logosName>
+<cambiar-logos-en-carruselName>MUDAR LOGOTIPOS NO CARROSSEL</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>ALTERAR LOGOTIPOS NA GAMELIST</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>ATIVAR ANIMAÇÃO EM LOGOTIPO DE CARROSSEL ATIVO</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>OPÇÕES DE IMAGEM DE FUNDO</subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>APLICAR SOM NO CARROSSEL</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>APLICAR SOM EM GAMELIST</subset.aplicar-sonido-en-gamelist>

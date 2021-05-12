@@ -6,7 +6,9 @@
 <mostra-personajesName>顯示字符</mostra-personajesName>
 <opciones-de-personajes-en-sistemaName>在系統中的角色上應用效果</opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>將效果應用於遊戲列表中的角色</opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>徽標選項</opciones-de-logosName>
+<cambiar-logos-en-carruselName>更改轮播中的徽标</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>更改游戏清单中的徽标</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>主动轮播徽标中的激活动画</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>背景圖像選項</subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>在輪播上應用聲音</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>在遊戲清單中應用聲音</subset.aplicar-sonido-en-gamelist>

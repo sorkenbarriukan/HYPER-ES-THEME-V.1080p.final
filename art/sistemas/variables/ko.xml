@@ -6,7 +6,9 @@
 <mostra-personajesName>캐릭터보기</mostra-personajesName>
 <opciones-de-personajes-en-sistemaName>시스템의 캐릭터에 효과 적용</opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>게임 목록의 캐릭터에 효과 적용</opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>로고 옵션</opciones-de-logosName>
+<cambiar-logos-en-carruselName>CAROUSEL에서 로고 변경</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>게임 목록에서 로고 변경</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>액티브 캐 러셀 로고에서 애니메이션 활성화</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>배경 이미지 옵션</subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>CAROUSEL에 소리 적용</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>게임 목록에 사운드 적용</subset.aplicar-sonido-en-gamelist>

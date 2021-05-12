@@ -6,7 +6,9 @@
 <mostra-personajesName>ERAKUTSI PERTSONAIA</mostra-personajesName>
 <opciones-de-personajes-en-sistemaName>SISTEMAKO PERTSONAIAREN ERAGINA APLIKATUA</opciones-de-personajes-en-sistemaName>
 <opciones-de-personajes-en-gamelistName>JOKALARITZEKO PERTSONAIAREN ERAGINA APLIKATU</opciones-de-personajes-en-gamelistName>
-<opciones-de-logosName>LOGOAK AUKERAK</opciones-de-logosName>
+<cambiar-logos-en-carruselName>ALDATU LOGOAK CAROUSELEN</cambiar-logos-en-carruselName>
+<cambiar-logos-en-gamelistName>ALDATU LOGOAK JOLAS-LISTAN</cambiar-logos-en-gamelistName>
+<activar-movimiento-en-logo-de-carruselName>ANIMAZIOA AKTIBATU KARRUSELA LOGO AKTIBOAN</activar-movimiento-en-logo-de-carruselName>
 <subset.opciones-imagen-de-fondo>AURREKARIAK IRUDI AUKERAK</subset.opciones-imagen-de-fondo>
 <subset.aplicar-sonido-en-carrusel>APLIKATU SOINUA CAROUSELEN</subset.aplicar-sonido-en-carrusel>
 <subset.aplicar-sonido-en-gamelist>APLIKATU SOINUA JOKALARI-LISTAN</subset.aplicar-sonido-en-gamelist>
