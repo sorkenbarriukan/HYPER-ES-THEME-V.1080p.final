@@ -13,20 +13,15 @@
 
 <image name="background3" extra="true">
 <tile>false</tile>
-<size>1 1</size>
-<pos>0 0</pos>
-<origin>0 0</origin>
-<path>./art/sistemas/wall/default.png</path>
-<path>./art/sistemas/wall/${system.theme}.png</path>
-<zIndex>10</zIndex>
 </image>
  
  <image name="background4max" extra="true">
+ <visible>true</visible>
 <tile>false</tile>
-<size>0.5720 0.743</size>
+<roundCorners>0.0540</roundCorners>             
+<pos>0.652 0.488</pos>
 <origin>0.5 0.5</origin>
-<pos>0.649 0.484</pos>
-<roundCorners>0.03.1</roundCorners>
+<size>0.5070 0.643</size>
 <path>./art/sistemas/wall/default.png</path>
 <path>./art/sistemas/wall/${system.theme}.png</path>
 <roundCorners>0.03.1</roundCorners>   
@@ -89,8 +84,8 @@
 </image>
 
 <image name="md_marquee">
-<pos>0.62 0.134</pos>
-<maxSize>0.253 0.199</maxSize>
+<pos>0.66 0.130</pos>
+<size>0.143 0.119</size>
 <origin>0.5 0.5</origin>
 <linearSmooth>true</linearSmooth>
 <storyboard>
@@ -114,10 +109,10 @@
 <video name="md_video">
 <visible>true</visible>
 <color>ffffff</color>
-<size>0.5720 0.743</size>
+<roundCorners>0.0540</roundCorners>             
+<pos>0.652 0.488</pos>
 <origin>0.5 0.5</origin>
-<pos>0.649 0.484</pos>
-<roundCorners>0.03.1</roundCorners>  
+<size>0.5070 0.643</size>  
 <delay>0</delay>
 <effect>none</effect>    		 
 <showSnapshotNoVideo>true</showSnapshotNoVideo>
@@ -127,10 +122,10 @@
 
 <image name="md_image">
 <visible>true</visible>
-<size>0.5720 0.743</size>
+<roundCorners>0.0540</roundCorners>             
+<pos>0.652 0.488</pos>
 <origin>0.5 0.5</origin>
-<pos>0.649 0.484</pos>
-<roundCorners>0.03.1</roundCorners>  
+<size>0.5070 0.643</size>  
 <zIndex>18</zIndex>
 </image>
 
@@ -205,7 +200,7 @@
 </text>
 
 <image name="logo03" extra="true">
-<pos>0.845 0.1</pos>
+<pos>0.815 0.155</pos>
 <maxSize>0.10 0.10</maxSize>
 <path>./art/sistemas/logosimples/default.png</path>
 <path>./art/sistemas/logosimples/${system.theme}.png</path>
@@ -219,8 +214,8 @@
 </image>
 	
 <text name="logoText">
-<pos>0.62 0.134</pos>
-<maxSize>0.253 0.199</maxSize>
+<pos>0.66 0.130</pos>
+<size>0.143 0.119</size>
 <origin>0.5 0.5</origin>
 <fontPath>./art/sistemas/fuentes/bestfriends.ttf</fontPath>
 <size>0.57 0.1</size>
@@ -238,8 +233,8 @@
 </text>
 
 <image name="logo">
-<pos>0.62 0.134</pos>
-<maxSize>0.253 0.199</maxSize>
+<pos>0.66 0.130</pos>
+<size>0.143 0.119</size>
 <origin>0.5 0.5</origin>
 <origin>0.5 0.5</origin>
 </image>
