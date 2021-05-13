@@ -234,7 +234,6 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <subset name="cambiar-logos-en-carrusel" displayName="${cambiar-logos-en-carruselName}">
 <include name="˙Ticket" displayName="${no}">./art/sistemas/storyboards/logos/ticket.xml</include>  
 <include name="˙Silverring" displayName="${no}">./art/sistemas/storyboards/logos/silverring.xml</include>  
-<include name="˙Alterno" displayName="${no}">./art/sistemas/storyboards/logos/alterno.xml</include>  
 <include name="˙Marquee" displayName="${no}">./art/sistemas/storyboards/logos/marquee.xml</include> 
 <include name="˙Cartucho Nes" displayName="${no}">./art/sistemas/storyboards/logos/nes.xml</include> 
 <include name="˙Comic" displayName="${no}">./art/sistemas/storyboards/logos/comics.xml</include> 
@@ -248,7 +247,6 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <include name=" ˙Logos">./art/sistemas/storyboards/menu/logo/silverring.xml</include>
 <include name=" ˙Marquee">./art/sistemas/storyboards/menu/logo/marquee.xml</include>
 <include name=" ˙Silverring">./art/sistemas/storyboards/menu/logo/silverring.xml</include>
-<include name=" ˙Alterno">./art/sistemas/storyboards/menu/logo/alterno.xml</include>
 <include name=" ˙Ticket">./art/sistemas/storyboards/menu/logo/ticket.xml</include>
 </subset>
 
