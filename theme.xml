@@ -104,6 +104,8 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <include name="Hyperspin 2 Carrusel Derecha">./art/sistemas/systemview/Hyperspin derh.xml</include>
 <include name="Hypermax Plus+">./art/sistemas/systemview/Hypermax Plus+.xml</include>
 <include name="Alterno">./art/sistemas/systemview/alterno.xml</include>
+<include name="SIMPLE VIDEO">./art/sistemas/systemview/simplevideo.xml</include>
+<include name="SIMPLE WALLPAPER">./art/sistemas/systemview/simplewallpaper.xml</include>
 
 <include name="-TATE- IZQUIERDA 1">./art/sistemas/systemview/verticalleft.xml</include>
 <include name="-TATE- IZQUIERDA 2">./art/sistemas/systemview/verticalleft4.xml</include>
@@ -570,6 +572,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <include name="Hypermax Plus+">./art/sistemas/vista-lista-juegos/Hypermax Plus+.xml</include>
 <include name="MANO ALZADA">./art/sistemas/vista-lista-juegos/MANO ALZADA.xml</include>
 <include name="Alterno">./art/sistemas/vista-lista-juegos/alterno.xml</include>
+<include name="SIMPLE VIDEO">./art/sistemas/vista-lista-juegos/simplevideo.xml</include>
 <include name="-TATE  IZQUIERDA - MAQUINITA OBSCURA">./art/sistemas/vista-lista-juegos/-TATE  IZQUIERDA - MAQUINITA OBSCURA.xml</include>
 <include name="-TATE  IZQUIERDA - MAQUINITA AMARILLA">./art/sistemas/vista-lista-juegos/-TATE  IZQUIERDA - MAQUINITA AMARILLA.xml</include>
 <include name="-TATE  DERECHA - MAQUINITA OBSCURA">./art/sistemas/vista-lista-juegos/-TATE  DERECHA - MAQUINITA OBSCURA.xml</include>

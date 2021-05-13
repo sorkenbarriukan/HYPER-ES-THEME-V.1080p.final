@@ -50,7 +50,7 @@
 </image>
      
 <image name="predeterminado" extra="true">
-<visible>true</visible>
+<visible>false</visible>
 <tile>false</tile>
 <Delay>800</Delay>
 <rotation>0</rotation>  
@@ -71,10 +71,10 @@
 <visible>true</visible>
 <path>{random}</path>  
 <rotation>0</rotation>  
-<roundCorners>0.03</roundCorners>             
-<pos>0.443 0.490</pos>
+<roundCorners>0.0548</roundCorners>             
+<pos>0.442 0.490</pos>
 <origin>0.5 0.5</origin>
-<size>0.5090 0.648</size>
+<size>0.5070 0.646</size>
 <delay>0</delay>
 <showSnapshotNoVideo>false</showSnapshotNoVideo>
 <showSnapshotDelay>false</showSnapshotDelay>
@@ -145,17 +145,17 @@
 </helpsystem>
 
 <carousel name="systemcarousel">
+<zIndex>43</zIndex>	      
 <type>vertical_wheel</type>
-<pos>0.799 0</pos>
-<size>0.201 1</size>
-<logoScale>0.91</logoScale>
-<zIndex>41</zIndex>          
-<logoSize>0.16 0.16</logoSize>
+<pos>0.344 0</pos>
+<size>1 1</size>
+<logoScale>1.05</logoScale>
+<logoSize>0.130 0.260</logoSize>
 <color>00000000</color>
-<logoRotation>-5.5</logoRotation>
-<logoRotationOrigin>3.2 0.5</logoRotationOrigin>
-<logoAlignment>center</logoAlignment>
-<maxLogoCount>13</maxLogoCount>
+<maxLogoCount>30</maxLogoCount>
+<logoRotation>8</logoRotation>
+<logoRotationOrigin>3.50 0.5</logoRotationOrigin>
+<logoAlignment>center</logoAlignment>       
 </carousel>
 
 <text name="systemInfo">
