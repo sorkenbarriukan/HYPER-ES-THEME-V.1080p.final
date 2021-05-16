@@ -18,6 +18,7 @@
 <image name="background" extra="true">
 <color>000000FF</color>
 </image>
+
 <video name="backgroundvideo" extra="true">
 <path>./art/sistemas/vidseffect/Snakervill.mp4</path>
 <size>1 1</size>
