@@ -46,11 +46,11 @@
 <image name="predeterminado" extra="true">
 <tile>false</tile>
 <Delay>800</Delay>
-<pos>0.6500 0.485</pos>
+<roundCorners>0.0248</roundCorners>                
+<pos>0.6500 0.486</pos>
 <origin>0.5 0.5</origin>
-<size>0.5860 0.782</size>
+<size>0.5800 0.774</size>
 <path>./art/sistemas/fondos/default.png</path>
-<roundCorners>0.04.9</roundCorners>
 <zIndex>19</zIndex>
 <storyboard>
         <animation property="y" from="0.05" begin="0" duration="350" mode="easeOut"/>
@@ -62,10 +62,10 @@
 <video name="backgroundvideo" extra="true">
 <visible>true</visible>
 <path>{random}</path>      
-<roundCorners>0.04.7</roundCorners>              
-<pos>0.6500 0.485</pos>
+<roundCorners>0.0248</roundCorners>                 
+<pos>0.6500 0.486</pos>
 <origin>0.5 0.5</origin>
-<size>0.5860 0.782</size>
+<size>0.5800 0.774</size>
 <delay>0</delay>
 <showSnapshotNoVideo>false</showSnapshotNoVideo>
 <showSnapshotDelay>false</showSnapshotDelay>
@@ -153,6 +153,13 @@
 <glowSize>2</glowSize>
 <reflexion>0.50 0.0</reflexion>
 <zIndex>61</zIndex>
+</image>
+
+<image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
 </image>
 
 <helpsystem name="help">

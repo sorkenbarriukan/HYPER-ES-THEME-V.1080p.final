@@ -42,6 +42,7 @@
 <size>0.4860 0.682</size>
 <rotation>-10</rotation>  
 <path>./art/sistemas/fondos/default.png</path>
+<roundCorners>0.0248</roundCorners> 
 <zIndex>19</zIndex>
 <storyboard>
         <animation property="y" from="0.05" begin="0" duration="350" mode="easeOut"/>
@@ -172,7 +173,7 @@
 <showSnapshotNoVideo>false</showSnapshotNoVideo>
 <showSnapshotDelay>false</showSnapshotDelay>
 <rotation>-10</rotation>  
-<roundCorners>0.04.9</roundCorners>    
+<roundCorners>0.0248</roundCorners>   
 <zIndex>20</zIndex>
 <storyboard>       
        <animation property="y" from="0" begin="0" duration="2250" mode="easeOut"/>    
