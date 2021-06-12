@@ -108,6 +108,7 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <include name="SIMPLE VIDEO">./art/sistemas/systemview/simplevideo.xml</include>
 <include name="SIMPLE WALLPAPER">./art/sistemas/systemview/simplewallpaper.xml</include>
 <include name="GLITCH">./art/sistemas/systemview/glitch.xml</include>
+<include name="EGGO">./art/sistemas/systemview/eggo.xml</include>
 
 <include name="-TATE- IZQUIERDA 1">./art/sistemas/systemview/verticalleft.xml</include>
 <include name="-TATE- IZQUIERDA 2">./art/sistemas/systemview/verticalleft4.xml</include>
@@ -602,6 +603,8 @@ RetroBat for windows:  kaylh...  ( http://www.retrobat.ovh/ )
 <include name="Alterno">./art/sistemas/vista-lista-juegos/alterno.xml</include>
 <include name="SIMPLE VIDEO">./art/sistemas/vista-lista-juegos/simplevideo.xml</include>
 <include name="GLITCH">./art/sistemas/vista-lista-juegos/glitch.xml</include>
+<include name="EGGO">./art/sistemas/vista-lista-juegos/eggo.xml</include>
+
 <include name="-TATE  IZQUIERDA - MAQUINITA OBSCURA">./art/sistemas/vista-lista-juegos/-TATE  IZQUIERDA - MAQUINITA OBSCURA.xml</include>
 <include name="-TATE  IZQUIERDA - MAQUINITA AMARILLA">./art/sistemas/vista-lista-juegos/-TATE  IZQUIERDA - MAQUINITA AMARILLA.xml</include>
 <include name="-TATE  DERECHA - MAQUINITA OBSCURA">./art/sistemas/vista-lista-juegos/-TATE  DERECHA - MAQUINITA OBSCURA.xml</include>
