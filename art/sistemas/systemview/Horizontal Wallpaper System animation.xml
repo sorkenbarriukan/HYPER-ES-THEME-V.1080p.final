@@ -60,14 +60,7 @@
 <size>1 0.2325</size>
 <maxLogoCount>5</maxLogoCount>
 </carousel>
-<image name="carousel-inner" extra="true">
-<path>./art/carousel2.png</path>
-<color>FFFFFFFF</color>
-<origin>0 0</origin>
-<pos>0 0.3837</pos>
-<size>1 0.2325</size>
-<zIndex>10</zIndex>
-</image>
+
 
 <text name="systemInfo">
 <systemInfoDelay>300</systemInfoDelay>
@@ -81,7 +74,14 @@
 <glowSize>2</glowSize>
 <reflexion>0.50 0.0</reflexion>
 </text>
-    
+ 
+ <image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
+   
 <helpsystem name="help">
 <visible>false</visible>
 <textColor>1C00ff00</textColor>

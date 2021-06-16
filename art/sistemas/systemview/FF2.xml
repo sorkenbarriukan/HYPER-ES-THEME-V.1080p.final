@@ -15,6 +15,13 @@
 </storyboard>
 </image>
 
+<image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
+
 <image name="fondovideo" extra="true">
 <tile>false</tile>
 <size>1 1</size>

@@ -68,6 +68,10 @@
  <linearSmooth>true</linearSmooth>
 <zIndex>10</zIndex>
 </image>
+
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
     
 <image name="pointer" extra="true">
 <tile>false</tile>

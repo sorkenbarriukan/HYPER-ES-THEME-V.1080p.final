@@ -161,6 +161,12 @@
 <fontSize tinyScreen="true">0.035</fontSize>
 </text> 
        
+<image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
 
 <helpsystem name="help">
 <visible>false</visible>

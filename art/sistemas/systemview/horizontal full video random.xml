@@ -129,6 +129,13 @@
 <fontSize>0.020</fontSize>
 <pos>0.50 0.03</pos>
 </helpsystem>
+
+<image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
        
 <text name="sys_info" extra="true">
 <visible>false</visible>

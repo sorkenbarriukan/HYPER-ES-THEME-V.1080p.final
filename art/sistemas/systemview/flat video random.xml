@@ -133,6 +133,13 @@
 <text name="sys_description" extra="true">
 <visible>false</visible>
 </text>
+
+<image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
     
 <text name="logoText">
 <fontPath>./art/sistemas/fuentes/bestfriends.ttf</fontPath>

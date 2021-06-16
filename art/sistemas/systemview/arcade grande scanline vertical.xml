@@ -139,6 +139,13 @@
 <reflexion>0</reflexion>
 <zIndex>50</zIndex>
 </text>
+
+<image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
        
 <text name="sys_info" extra="true">
 <visible>false</visible>

@@ -33,6 +33,13 @@
 <path>./art/sistemas/wall/${system.theme}.png</path>
 <zIndex>10</zIndex>
 </image>
+
+<image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
     
 <image name="predeterminado" extra="true">
 <tile>false</tile>

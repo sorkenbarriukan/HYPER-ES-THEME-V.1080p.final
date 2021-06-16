@@ -36,6 +36,10 @@
 <path>./art/sistemas/wall/${system.theme}.png</path>
 <zIndex>9</zIndex>
 </image>
+
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
     
 <image name="pointer" extra="true">
 <tile>false</tile>

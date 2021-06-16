@@ -166,6 +166,13 @@
 <zIndex>61</zIndex>
 </image>
 
+<image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
+</image>
+
 <image name="box1" extra="true">
 <origin>0.5 0.5</origin>
 <pos>0.87 0.77</pos>

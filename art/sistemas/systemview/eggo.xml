@@ -54,7 +54,7 @@
 <origin>0.5 0.5</origin>
 <size>1.0100 1.4400</size>
 <path>./art/sistemas/fondos/c2.png</path>
-<zIndex>50</zIndex>
+<zIndex>90</zIndex>
  <linearSmooth>true</linearSmooth>
 <storyboard repeat="forever">
 <animation property="rotation" to="-100" begin="0" duration="9510" autoreverse="true"/>
@@ -67,7 +67,7 @@
 <origin>0.5 0.5</origin>
 <size>1.0100 1.4400</size>
 <path>./art/sistemas/fondos/c3.png</path>
-<zIndex>50</zIndex>
+<zIndex>90</zIndex>
  <linearSmooth>true</linearSmooth>
 <storyboard repeat="forever">
 <animation property="rotation" from="30" duration="9000" autoreverse="true" mode="linear" begin="0"/>
@@ -80,7 +80,7 @@
 <origin>0.5 0.5</origin>
 <size>1.0100 1.4400</size>
 <path>./art/sistemas/fondos/c4.png</path>
-<zIndex>50</zIndex>
+<zIndex>90</zIndex>
  <linearSmooth>true</linearSmooth>
 <storyboard repeat="forever">
 <animation property="rotation" to="140" begin="0" duration="5510" autoreverse="true"/>
@@ -93,7 +93,7 @@
 <origin>0.5 0.5</origin>
 <size>1.0100 1.4400</size>
 <path>./art/sistemas/fondos/c5.png</path>
-<zIndex>50</zIndex>
+<zIndex>90</zIndex>
  <linearSmooth>true</linearSmooth>
 <storyboard repeat="forever">
 <animation property="rotation" to="-40" begin="0" duration="5510" autoreverse="true"/>
@@ -106,7 +106,7 @@
 <origin>0.5 0.5</origin>
 <size>1.0100 1.4400</size>
 <path>./art/sistemas/fondos/c6.png</path>
-<zIndex>50</zIndex>
+<zIndex>90</zIndex>
  <linearSmooth>true</linearSmooth>
 <storyboard repeat="forever">
 <animation property="rotation" from="-100" duration="6000" autoreverse="true" mode="linear" begin="0"/>
@@ -119,7 +119,7 @@
 <origin>0.5 0.5</origin>
 <size>1.0100 1.4400</size>
 <path>./art/sistemas/fondos/c7.png</path>
-<zIndex>50</zIndex>
+<zIndex>90</zIndex>
  <linearSmooth>true</linearSmooth>
 <storyboard repeat="forever">
 <animation property="rotation" to="300" begin="0" duration="6510" autoreverse="true"/>
@@ -132,7 +132,7 @@
 <origin>0.5 0.5</origin>
 <size>1.0100 1.4400</size>
 <path>./art/sistemas/fondos/c8.png</path>
-<zIndex>50</zIndex>
+<zIndex>90</zIndex>
  <linearSmooth>true</linearSmooth>
 <storyboard repeat="forever">
 <animation property="rotation" from="-100" duration="7000" autoreverse="true" mode="linear" begin="0"/>
@@ -145,7 +145,7 @@
 <origin>0.5 0.5</origin>
 <size>1.0100 1.4400</size>
 <path>./art/sistemas/fondos/c9.png</path>
-<zIndex>50</zIndex>
+<zIndex>90</zIndex>
  <linearSmooth>true</linearSmooth>
 <storyboard repeat="forever">
 <animation property="rotation" from="-50" duration="5000" autoreverse="true" mode="linear" begin="0"/>
@@ -158,7 +158,7 @@
 <origin>0.5 0.5</origin>
 <size>1.0100 1.4400</size>
 <path>./art/sistemas/fondos/c10.png</path>
-<zIndex>48</zIndex>
+<zIndex>88</zIndex>
  <linearSmooth>true</linearSmooth>
 <storyboard repeat="forever">
 <animation property="rotation" from="-50" duration="19000" autoreverse="true" mode="linear" begin="0"/>

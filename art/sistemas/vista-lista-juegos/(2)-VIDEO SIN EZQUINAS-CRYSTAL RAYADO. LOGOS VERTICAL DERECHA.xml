@@ -138,9 +138,9 @@
 <tile>false</tile>
 <Delay>800</Delay>
 <roundCorners>0.0248</roundCorners>                
-<size>0.5850 0.779</size>
+<pos>0.3500 0.486</pos>
 <origin>0.5 0.5</origin>
-<size>0.5800 0.774</size>
+<size>0.5850 0.779</size>
 <path>./art/sistemas/fondos/default.png</path>    
 <zIndex>19</zIndex>
 <storyboard>

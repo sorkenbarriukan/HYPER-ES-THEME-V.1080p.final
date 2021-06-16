@@ -179,7 +179,7 @@
 
 <image name="md_image">
 <origin>0.5 0.5</origin>
-<pos>0.628 0.360.5</pos>
+<pos>0.628 0.360</pos>
 <size>0.6900 0.630</size>
 <roundCorners>0</roundCorners>
 <zIndex>47</zIndex>
@@ -189,7 +189,7 @@
 <tile>false</tile>
 <Delay>800</Delay>
 <origin>0.5 0.5</origin>
-<pos>0.628 0.360.5</pos>
+<pos>0.628 0.360</pos>
 <size>0.6900 0.630</size>
 <delay>0</delay>
 <roundCorners>0</roundCorners>
@@ -199,7 +199,7 @@
 
 <video name="md_video">
 <origin>0.5 0.5</origin>
-<pos>0.628 0.360.5</pos>
+<pos>0.628 0.360</pos>
 <size>0.6900 0.630</size>
 <delay>0</delay>
 <showSnapshotNoVideo>false</showSnapshotNoVideo>

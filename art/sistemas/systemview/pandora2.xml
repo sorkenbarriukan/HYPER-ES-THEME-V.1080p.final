@@ -34,10 +34,6 @@
 <zIndex>60</zIndex>
 </image>  
 
-
-
-
-
 <image name="logopandora" extra="true">
 <tile>false</tile>
 <Delay>800</Delay>
@@ -187,6 +183,13 @@
 <animation property="scaleOrigin" to="0" begin="6000" duration="0"/>
 <animation property="y" from="0.84"  to="0.78" begin="0" duration="180" autoreverse="true" begin="2000" repeat="5"/>
 </storyboard>
+</image>
+
+<image name="pointer" extra="true">
+<visible>false</visible>
+</image>
+<image name="pointerl" extra="true">
+<visible>false</visible>
 </image>
 
 <helpsystem name="help">
