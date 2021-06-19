@@ -52,7 +52,6 @@
 <rotation>-10</rotation> 
 <roundCorners>0.0248</roundCorners>  
 <path>./art/sistemas/fondos/default.png</path>
-<roundCorners>0.04.9</roundCorners>
 <zIndex>19</zIndex>
 <storyboard>
         <animation property="y" from="0.05" begin="0" duration="350" mode="easeOut"/>
@@ -74,9 +73,6 @@
 <showSnapshotDelay>false</showSnapshotDelay>
 <color>FFFFFF</color>   
 <zIndex>20</zIndex>
-<storyboard>       
-<animation property="scale" from="0" to="1" duration="800" mode="easeOutCubic"/>       
-</storyboard>
 </video>
 
 <image name="consola" extra="true">
